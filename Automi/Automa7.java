@@ -1,9 +1,4 @@
-/**
- * Membri Gruppo:
- * Oliviu Gratii
- * Alessio Di Dio
- * Alessio Mino Chimento 
- */
+
 public class Automa7 {/* DFA che riconosca il linguaggio di stringhe che
     contengono il mio nome e tutte le stringhe ottenute dopo la sostituzione di un carattere del nome
     con un altro qualsiasi */
