@@ -1,6 +1,5 @@
 # Progetto-LFT-21-22
 Se volete ringraziarci con un piccolo contibuto
-https://www.patreon.com/LFT_DEVS <br>
 PayPal:<br>
 https://paypal.me/oliviugr<br>
 https://www.paypal.com/paypalme/itcantalwaysbenight<br>
