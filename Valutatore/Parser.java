@@ -1,9 +1,4 @@
-/**
- * Membri Gruppo:
- * Oliviu Gratii
- * Alessio Di Dio
- * Alessio Mino Chimento 
- */
+
 import java.io.*;
 public class Parser {
     // analizzatore sintattico che controlla se la successione di token, 
