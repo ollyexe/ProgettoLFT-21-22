@@ -1,9 +1,4 @@
-/**
- * Membri Gruppo:
- * Oliviu Gratii
- * Alessio Di Dio
- * Alessio Mino Chimento 
- */
+
 // javac Translator.java
 // java Translator
 // java -jar jasmin.jar Output.j
