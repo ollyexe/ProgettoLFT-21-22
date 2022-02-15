@@ -1,9 +1,3 @@
-/**
- * Membri Gruppo:
- * Oliviu       Gratii      944575
- * Alessio      Di Dio
- * Alessio Mino Chimento    957515
- */
 import java.io.*; 
 public class Lexer {// analizzatore lessicale che genera i token appartenenti ad una determinata sintassi
                     // ogni token corrisponde ad un frammento della sintassi java 
