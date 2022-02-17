@@ -5,7 +5,7 @@ public class Token {
         char c=(char)tag;
 		
 		
-        return "<" + tag +" , " + c+ ">";}
+        return "<" + tag + ">";}
     public static final Token
     not = new Token('!'),
     lpt = new Token('('),
